@@ -2,7 +2,7 @@
 The datasets are provided by Olist on Kaggle.com . It contains anonymized records of 100k orders made on the platform from 2016 to 2018.
 
 
-The project aims to develop a comprehensive, multi-level analysis that includes:
+The project aims to develop a comprehensive, multi-level analysis that includes: \newline
 (1) Machine learning models to explore different features of an order that would impact review scores
 (2) Forecast of monthly sales volumes by product category
 (3) Customer segmentation analysis based on churn probability, and machine learning models to classify customers into
