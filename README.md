@@ -10,3 +10,5 @@ categories based on their buying behavior
 (4) Sentiment analysis of product reviews (textual data) to discern customer’s preferences, likes and dislike
 
 This project was authored by Adam Foley, Mann Purohit, Nhat Pham, Sarvagna Shukla
+
+![alt text](https://storage.googleapis.com/kaggle-datasets-images/78342/179673/4051e8a3f3a6562f956b80977db4dcd1/dataset-cover.png?t=2018-11-16-16-45-14)
